@@ -1,7 +1,0 @@
-README.md
-setup.py
-itcs4156/__init__.py
-itcs4156.egg-info/PKG-INFO
-itcs4156.egg-info/SOURCES.txt
-itcs4156.egg-info/dependency_links.txt
-itcs4156.egg-info/top_level.txt
